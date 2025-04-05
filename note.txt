@@ -1,0 +1,2 @@
+npm start      # Start development server
+npm run build  #To create a production build, use.
